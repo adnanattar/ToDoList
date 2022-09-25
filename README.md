@@ -1,14 +1,14 @@
 # ToDoList
 Simple To Do List on Solidity Language
 
-Input: 
+# Input: 
 createTask - Input String Name of the Task
 
 taskUpdate - Input Integer value starts from zero(0) eg. 0 fo first task, 1 for second task.
              Convert isCompleted false to true
              
 
-Output:
+# Output:
 getAllTask - View all task name deployed on the smart contract
 
 getTask - Input Integer value starts from zero(0) eg. 0 fo first task, 1 for second task.
